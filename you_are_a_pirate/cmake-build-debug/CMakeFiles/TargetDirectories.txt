@@ -1,0 +1,3 @@
+C:/Users/Danny/CLionProjects/you_are_a_pirate/cmake-build-debug/CMakeFiles/you_are_a_pirate.dir
+C:/Users/Danny/CLionProjects/you_are_a_pirate/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Danny/CLionProjects/you_are_a_pirate/cmake-build-debug/CMakeFiles/rebuild_cache.dir
